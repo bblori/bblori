@@ -26,6 +26,11 @@ Content in the first column | Content in the second column |
   Beautifulsoup |sdsd
   ------------------------------ | ------------------------------
 [Webscraping](https://github.com/bblori/Webscraping)| ssdsd
+
+### Django
+  Password generator |sdsd
+  ------------------------------ | ------------------------------
+
     
 
 <!--
